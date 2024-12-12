@@ -1,6 +1,6 @@
 <?php
 
-namespace Equip\Structure\Traits;
+namespace Minormous\Structure\Traits;
 
 trait CanStructure /* implements StructureInterface */
 {

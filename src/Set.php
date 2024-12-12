@@ -1,8 +1,8 @@
 <?php
 
-namespace Equip\Structure;
+namespace Minormous\Structure;
 
-use Equip\Structure\Traits\CanStructure;
+use Minormous\Structure\Traits\CanStructure;
 
 class Set implements SetInterface
 {

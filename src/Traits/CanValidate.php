@@ -1,11 +1,11 @@
 <?php
 
-namespace Equip\Structure\Traits;
+namespace Minormous\Structure\Traits;
 
 trait CanValidate
 {
     /**
-     * @throws \Equip\Structure\StructureException
+     * @throws \Minormous\Structure\StructureException
      *  If the array is not usable for this structure.
      *
      * @param array $values

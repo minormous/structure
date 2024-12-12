@@ -1,6 +1,6 @@
 <?php
 
-namespace Equip\Structure;
+namespace Minormous\Structure;
 
 interface StructureInterface extends
     \ArrayAccess,

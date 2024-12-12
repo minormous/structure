@@ -1,8 +1,8 @@
 <?php
 
-namespace Equip\Structure\Traits;
+namespace Minormous\Structure\Traits;
 
-use Equip\Structure\ImmutableException;
+use Minormous\Structure\ImmutableException;
 
 trait CanAccess /* implements ArrayAccess */
 {

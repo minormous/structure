@@ -1,13 +1,13 @@
-## Equip Structure
+## Minormous Structure
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/equip/structure.svg)](https://packagist.org/packages/equip/structure)
-[![License](https://img.shields.io/packagist/l/equip/structure.svg)](https://github.com/equip/structure/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/equip/structure.svg)](https://travis-ci.org/equip/structure)
-[![Code Coverage](https://scrutinizer-ci.com/g/equip/structure/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/equip/structure/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/equip/structure/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/equip/structure/?branch=master)
+[![Latest Stable Version](https://img.shields.io/packagist/v/minormous/structure.svg)](https://packagist.org/packages/minormous/structure)
+[![License](https://img.shields.io/packagist/l/minormous/structure.svg)](https://github.com/minormous/structure/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/minormous/structure.svg)](https://travis-ci.org/minormous/structure)
+[![Code Coverage](https://scrutinizer-ci.com/g/minormous/structure/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/minormous/structure/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/minormous/structure/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/minormous/structure/?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/destrukt/destrukt.svg)](https://packagist.org/packages/destrukt/destrukt)
 
-Provides a number of common data structures in [Equip](http://equip.github.io/)
+Provides a number of common data structures in [Minormous](http://minormous.github.io/)
 that are not natively supported by PHP. Each structure is represented by an
 immutable object that can be counted and serialized to JSON. All of the structures
 can be used as [iterators][php-iterator] and [arrays][php-arrayaccess], but cannot
@@ -18,7 +18,7 @@ be modified using array functions.
 
 For more information, see [the documentation][docs].
 
-[docs]: http://equipframework.readthedocs.org/en/latest/structure
+[docs]: http://minormousframework.readthedocs.org/en/latest/structure
 
 This package is compliant with [PSR-1][], [PSR-2][], and [PSR-4][]. If you notice
 compliance oversights, please send a patch via pull request.
@@ -72,7 +72,7 @@ The following versions of PHP are supported.
 Via Composer
 
 ```bash
-$ composer require equip/structure
+$ composer require minormous/structure
 ```
 
 ## License

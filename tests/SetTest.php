@@ -1,6 +1,6 @@
 <?php
 
-namespace Equip\Structure;
+namespace Minormous\Structure;
 
 use PHPUnit_Framework_TestCase as TestCase;
 

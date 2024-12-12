@@ -1,8 +1,8 @@
 <?php
 
-namespace Equip\Structure\Traits;
+namespace Minormous\Structure\Traits;
 
-use Equip\Structure\StructureInterface;
+use Minormous\Structure\StructureInterface;
 
 trait CanCompare
 {

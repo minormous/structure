@@ -1,11 +1,11 @@
 <?php
 
-namespace Equip\Structure\Traits;
+namespace Minormous\Structure\Traits;
 
 trait CanSerializeJson /* implements JsonSerializable */
 {
     /**
-     * @see \Equip\Structure\Traits\CanArray
+     * @see \Minormous\Structure\Traits\CanArray
      */
     abstract public function toArray();
 

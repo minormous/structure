@@ -1,10 +1,10 @@
 <?php
 
-namespace Equip\Structure;
+namespace Minormous\Structure;
 
 use ArrayAccess;
 use Countable;
-use Equip\Structure\ImmutableException;
+use Minormous\Structure\ImmutableException;
 use Exception;
 use JsonSerializable;
 use Iterator;

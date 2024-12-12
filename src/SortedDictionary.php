@@ -1,6 +1,6 @@
 <?php
 
-namespace Equip\Structure;
+namespace Minormous\Structure;
 
 class SortedDictionary extends Dictionary
 {
